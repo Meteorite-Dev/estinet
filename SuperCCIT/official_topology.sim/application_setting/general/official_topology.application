@@ -1,0 +1,2 @@
+#estinet traffic generator file
+$node_(1) 2.000000000000 80.000000000000 ryu-manager /home/estinet/Downloads/MonitorDrop.py
